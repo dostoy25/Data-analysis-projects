@@ -2,7 +2,7 @@
 * Se mostraran los diferentes dashboards basados en un analisis de datos mediante tableau
 ## El proyecto se hizo con:
 
-* tableau
+* Tableau
 
 ## dashboard
 * [ver todos mis proyectos en tableau public](https://public.tableau.com/app/profile/santiago.lara)
