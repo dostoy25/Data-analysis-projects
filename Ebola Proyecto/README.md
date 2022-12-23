@@ -10,4 +10,4 @@ En esta parte se subira una imagen del dashboard asi mismo se podra ver en table
 ## El proyecto se hizo en base a las querys de la base de datos
 * Ebola
 ## El dashboard se hizo con 4 partes del codigo de SQL que se encuentra en:
-* [ver la otra parte del proyecto en PostgreSQL](https://github.com/dostoy25/Data-analysis-projects/blob/main/Ebola%20project.ipynb)
+* [ver la otra parte del proyecto en PostgreSQL](https://github.com/dostoy25/Data-analysis-projects/blob/main/Ebola%20Proyecto/Ebola%20project.ipynb)
