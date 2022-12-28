@@ -10,7 +10,7 @@
 
 ### Dashboard todo junto:
 
-![Dashboard 6](https://user-images.githubusercontent.com/92124774/209755982-607c01fb-3adb-4e4c-9bdf-eb1620d83c4d.png)
+![Dashboard 6 (1)](https://user-images.githubusercontent.com/92124774/209831176-e1b99e55-9fec-472b-a665-9e36cea1ec79.png)
 
 ### En el primer dashboard se muestran las personas vacunadas en diferentes circunstancias:
 
