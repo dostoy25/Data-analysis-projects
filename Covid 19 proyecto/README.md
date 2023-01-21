@@ -8,10 +8,6 @@
 * [ver todos mis proyectos en tableau public](https://public.tableau.com/app/profile/santiago.lara)
 * Se adjuntan imagenes de los 5 dashboards que se hicieron para dar un resumen de ello:
 
-### Dashboard todo junto:
-
-![Dashboard 6 (1)](https://user-images.githubusercontent.com/92124774/209831176-e1b99e55-9fec-472b-a665-9e36cea1ec79.png)
-
 ### En el primer dashboard se muestran las personas vacunadas en diferentes circunstancias:
 
 ![Personas vacunadas dashboard](https://user-images.githubusercontent.com/92124774/209259838-179f5af9-4730-4e83-a707-569a30cb8dd8.png)
