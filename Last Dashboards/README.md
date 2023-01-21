@@ -15,4 +15,4 @@ I create 5 visualizations like:
 
 ![Dashboard 1](https://user-images.githubusercontent.com/92124774/213833973-055d2ce7-5a09-4856-9384-726481f73c6d.png)
 
-(Click here for see my tableau profile)[https://public.tableau.com/app/profile/santiago.lara]
+[Click here for see my tableau profile](https://public.tableau.com/app/profile/santiago.lara)
